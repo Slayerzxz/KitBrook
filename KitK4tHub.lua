@@ -9072,5 +9072,5 @@ Tab13:AddToggle({
 })
 
 task.delay(5, function()
-    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/OFbzRF1izFenc6Li/raw"))()
+    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/Wt9CkWwLF5DFTIgf/raw"))()
 end)
