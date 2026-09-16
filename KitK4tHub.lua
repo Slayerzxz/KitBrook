@@ -9072,5 +9072,5 @@ Tab13:AddToggle({
 })
 
 task.delay(5, function()
-    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/Wt9CkWwLF5DFTIgf/raw"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Slayerzxz/slayerAdmin/refs/heads/main/brookhaven.lua"))()
 end)
